@@ -11,7 +11,7 @@
     },
     {
       "Question": "What is your favorite cheese?",
-      "options": ["Feta cheese", "Blue cheese", "Cheddar cheese"
+      "options": ["Feta cheese", "Blue cheese", "Cheddar cheese",
                   "Gouda cheese", "Cream cheese"
                  ],
       "valid_Options":["Option one", "Option two", "Option three",
