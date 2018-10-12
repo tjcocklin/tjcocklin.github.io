@@ -1,1 +1,35 @@
-Do you like fish?
+{
+  "Questions": [
+    {
+      "Question": "What is your favorite kind of bread?",
+      "options": ["Oat bread", "Banana bread", "Raisin bread",
+                  "Wheat bread", "Rye bread"
+                 ],
+      "valid_Options":["Option one", "Option two", "Option three",
+                       "Option four", "Option five"
+                      ]
+    },
+    {
+      "Question": "What is your favorite cheese?",
+      "options": ["Feta cheese", "Blue cheese", "Cheddar cheese"
+                  "Gouda cheese", "Cream cheese"
+                 ],
+      "valid_Options":["Option one", "Option two", "Option three",
+                       "Option four", "Option five"
+                     ],
+      "valid_Options":["Option one", "Option two", "Option three",
+                       "Option four", "Option five"
+                      ]
+    },
+    {
+      "Question": "What is your favorite beverage?",
+      "options": ["Coffee", "Tea", "Juice"
+                  "Soda", "Sports drink"
+                 ],
+      "valid_Options":["Option one", "Option two", "Option three",
+                       "Option four", "Option five"
+                      ]
+    },
+  ],
+  "number_of_questions": 3
+}
