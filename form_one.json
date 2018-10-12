@@ -23,7 +23,7 @@
     },
     {
       "Question": "What is your favorite beverage?",
-      "options": ["Coffee", "Tea", "Juice"
+      "options": ["Coffee", "Tea", "Juice",
                   "Soda", "Sports drink"
                  ],
       "valid_Options":["Option one", "Option two", "Option three",
