@@ -2,8 +2,8 @@
   "Questions": [
     {
       "Question": "What is your favorite kind of bread?",
-      "options": ["Option 1, Oat bread", "Option 2, Banana bread", " Option 3, Raisin bread",
-                  "Option 4, Wheat bread", "Option 5, Rye bread"
+      "options": ["Option 1 Oat bread", "Option 2 Banana bread", " Option 3 Raisin bread",
+                  "Option 4 Wheat bread", "Option 5 Rye bread"
                  ],
       "valid_Options":["Option one", "Option two", "Option three",
                        "Option four", "Option five"
@@ -12,8 +12,8 @@
 
     {
       "Question": "What is your favorite cheese?",
-      "options": ["Option 1,  Feta cheese", "Option 2, Blue cheese", "Option 3, Cheddar cheese",
-                  "Option 4, Gouda cheese", "Option 5, Cream cheese"
+      "options": ["Option 1  Feta cheese", "Option 2 Blue cheese", "Option 3 Cheddar cheese",
+                  "Option 4 Gouda cheese", "Option 5 Cream cheese"
                  ],
       "valid_Options":["Option one", "Option two", "Option three",
                        "Option four", "Option five"
@@ -23,8 +23,8 @@
 
     {
       "Question": "What is your favorite beverage?",
-      "options": ["Option 1, Coffee", "Option 2, Tea", "Option 3, Juice",
-                  "Option 4, Soda", "Option 5, milkshake"
+      "options": ["Option 1 Coffee", "Option 2 Tea", "Option 3 Juice",
+                  "Option 4 Soda", "Option 5 milkshake"
                  ],
       "valid_Options":["Option one", "Option two", "Option three",
                        "Option four", "Option five"
@@ -33,7 +33,7 @@
 
     {
       "Question": "Do you like jazz?",
-      "options": ["Option 1, no", "Option 2, yes"],
+      "options": ["Option 1 no", "Option 2 yes"],
       "valid_Options":["Option one", "Option two"]
     }
   ]
