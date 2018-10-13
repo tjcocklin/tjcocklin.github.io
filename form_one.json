@@ -9,6 +9,7 @@
                        "Option four", "Option five"
                       ]
     },
+
     {
       "Question": "What is your favorite cheese?",
       "options": ["Option 1,  Feta cheese", "Option 2, Blue cheese", "Option 3, Cheddar cheese",
@@ -19,6 +20,7 @@
                      ],
 
     },
+
     {
       "Question": "What is your favorite beverage?",
       "options": ["Option 1, Coffee", "Option 2, Tea", "Option 3, Juice",
@@ -27,7 +29,13 @@
       "valid_Options":["Option one", "Option two", "Option three",
                        "Option four", "Option five"
                       ]
+    },
+
+    {
+      "Question": "Do you like jazz?",
+      "options": ["Option 1, no", "Option 2, yes"],
+      "valid_Options":["Option one", "Option two"]
     }
   ]
-  
+
 }
