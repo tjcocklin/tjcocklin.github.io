@@ -2,8 +2,8 @@
   "Questions": [
     {
       "Question": "What is your favorite kind of bread?",
-      "options": ["Oat bread", "Banana bread", "Raisin bread",
-                  "Wheat bread", "Rye bread"
+      "options": ["Option 1, Oat bread", "Option 2, Banana bread", " Option 3, Raisin bread",
+                  "Option 4, Wheat bread", "Option 5, Rye bread"
                  ],
       "valid_Options":["Option one", "Option two", "Option three",
                        "Option four", "Option five"
@@ -11,25 +11,23 @@
     },
     {
       "Question": "What is your favorite cheese?",
-      "options": ["Feta cheese", "Blue cheese", "Cheddar cheese",
-                  "Gouda cheese", "Cream cheese"
+      "options": ["Option 1,  Feta cheese", "Option 2, Blue cheese", "Option 3, Cheddar cheese",
+                  "Option 4, Gouda cheese", "Option 5, Cream cheese"
                  ],
       "valid_Options":["Option one", "Option two", "Option three",
                        "Option four", "Option five"
                      ],
-      "valid_Options":["Option one", "Option two", "Option three",
-                       "Option four", "Option five"
-                      ]
+
     },
     {
       "Question": "What is your favorite beverage?",
-      "options": ["Coffee", "Tea", "Juice",
-                  "Soda", "Sports drink"
+      "options": ["Option 1, Coffee", "Option 2, Tea", "Option 3, Juice",
+                  "Option 4, Soda", "Option 5, milkshake"
                  ],
       "valid_Options":["Option one", "Option two", "Option three",
                        "Option four", "Option five"
                       ]
     }
-  ],
-  "number_of_questions": 3
+  ]
+  
 }
