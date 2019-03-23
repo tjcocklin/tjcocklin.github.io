@@ -1,13 +1,21 @@
 {
-        "card on file":"Here's the first description",
-        "countries languages & currencies":"Here's the second description"
+    "list":[    
+    
+     {    
+        "feature": "card on file",
+        "description": "Here's the first description."
         
+        
+     },
+      
+    {
+          "feature": "countries languages & currencies",
+          "description":"Here's the second description."
+    }
 
 
 
-
-
-
+     ]
 
 
 }
