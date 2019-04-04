@@ -48,7 +48,7 @@
     {
           "feature": "lookup field",
           
-          "description":"A Lookup Field enables one form to look up, data from another form. You can then use that data to populate dropdowns, perform calculations, or display text in the new form. You can use look up fields to create Job applications that automatically hide expired positions, surveys that intelligently route themselves to the right people, and sales forms that track prices and inventory"
+          "description":"A Lookup Field enables one form to look up, data from another form. You can then use that data to populate dropdowns, perform calculations, or display text in the new form. You can use look up fields to create Job applications that automatically hide expired positions, surveys that intelligently route themselves to the right people, and sales forms that track prices and inventory."
     },    
         
     {
